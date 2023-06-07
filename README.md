@@ -6,6 +6,5 @@ The details inserted Trojans and the three detection techniques can be found in 
 
 Please cite our paper if you use the test vectors in your research studies:
 ```
-Sarihi, Amin, Ahmad Patooghy, Peter Jamieson, and Abdel-Hameed A. Badawy. "Trojan Playground: A Reinforcement Learning Framework
-forHardware Trojan Insertion and Detection." arXiv preprint arXiv:2305.09592 (2023).
+Sarihi, Amin, Ahmad Patooghy, Peter Jamieson, and Abdel-Hameed A. Badawy. "Trojan Playground: A Reinforcement Learning Framework forHardware Trojan Insertion and Detection." arXiv preprint arXiv:2305.09592 (2023).
 ```
