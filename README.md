@@ -6,7 +6,27 @@ The details inserted Trojans and the three detection techniques can be found in 
 
 Please cite our papers if you use the hardware Trojan instances ot test vectors in your research studies:
 ```
-1- Sarihi, Amin, Ahmad Patooghy, Peter Jamieson, and Abdel-Hameed A. Badawy. "Trojan Playground: A Reinforcement Learning Framework forHardware Trojan Insertion and Detection." arXiv preprint arXiv:2305.09592 (2023).
-2- Sarihi, Amin, Ahmad Patooghy, Peter Jamieson, and Abdel-Hameed A. Badawy. "Hardware trojan insertion using reinforcement learning." In Proceedings of the Great Lakes Symposium on VLSI 2022, pp. 139-142. 2022.
-3- Sarihi, Amin, Peter Jamieson, Ahmad Patooghy, and Abdel-Hameed A. Badawy. "Multi-criteria Hardware Trojan Detection: A Reinforcement Learning Approach." arXiv preprint arXiv:2304.13232 (2023).
+@inproceedings{sarihi2022hardware,
+  title={Hardware trojan insertion using reinforcement learning},
+  author={Sarihi, Amin and Patooghy, Ahmad and Jamieson, Peter and Badawy, Abdel-Hameed A},
+  booktitle={Proceedings of the Great Lakes Symposium on VLSI 2022},
+  pages={139--142},
+  year={2022}
+}
+```
+@article{sarihi2023multi,
+  title={Multi-criteria Hardware Trojan Detection: A Reinforcement Learning Approach},
+  author={Sarihi, Amin and Jamieson, Peter and Patooghy, Ahmad and Badawy, Abdel-Hameed A},
+  journal={arXiv preprint arXiv:2304.13232},
+  year={2023}
+}
+```
+```
+@article{sarihi2023trojan,
+  title={Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection},
+  author={Sarihi, Amin and Patooghy, Ahmad and Jamieson, Peter and Badawy, Abdel-Hameed A},
+  journal={arXiv preprint arXiv:2305.09592},
+  year={2023}
+}
+```
 ```
