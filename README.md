@@ -14,6 +14,8 @@ Please cite our papers if you use the hardware Trojan instances ot test vectors 
   year={2022}
 }
 ```
+
+```
 @article{sarihi2023multi,
   title={Multi-criteria Hardware Trojan Detection: A Reinforcement Learning Approach},
   author={Sarihi, Amin and Jamieson, Peter and Patooghy, Ahmad and Badawy, Abdel-Hameed A},
@@ -21,6 +23,7 @@ Please cite our papers if you use the hardware Trojan instances ot test vectors 
   year={2023}
 }
 ```
+
 ```
 @article{sarihi2023trojan,
   title={Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection},
@@ -28,5 +31,4 @@ Please cite our papers if you use the hardware Trojan instances ot test vectors 
   journal={arXiv preprint arXiv:2305.09592},
   year={2023}
 }
-```
 ```
