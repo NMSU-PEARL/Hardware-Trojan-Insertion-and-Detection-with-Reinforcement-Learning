@@ -1,6 +1,6 @@
 This directory contains the ISCAS-85 HT benchmarks generated in the paper titled **_Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection_**
 
-To get access to the zip file, please send an email to sarihi@nmsu.edu
+To get access to the zip file, please send an email to badawy@nmsu.edu
 
 If you use these benchmarks, please cite the following work in your research:
 ```
